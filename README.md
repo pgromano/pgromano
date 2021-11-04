@@ -4,4 +4,4 @@ I'm a data scientist working on NLP projects that help researchers and businesse
 
 I like to build tools and models in Python. 
 
-Most of my free time goes to learning new languages, playing with code design, and spending time outside my with wife and [dog](./lola.jpg)
+Most of my free time goes to learning new languages, playing with code design, and spending time outside with my wife and [dog](./lola.jpg)
